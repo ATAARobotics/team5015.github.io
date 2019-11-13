@@ -8,7 +8,7 @@ title: Under Construction
             <img style="max-width: 45%; margin-top: 15px" src="/resources/img/logo.png" class="img-fluid" />
             <h1>Team 5015 SWAT Bots</h1>
             <h1>Under Construction</h1>
-            <a href="http://4334.ca">4334.ca</a>
+            <a href="http://ataarobotics.ca">Go to the Alberta Tech Alliance Website</a>
         </div>
     </div>
 </div>
